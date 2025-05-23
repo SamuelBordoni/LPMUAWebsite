@@ -534,7 +534,7 @@ figure.effect-lexi figcaption::before, figure.effect-lexi p {
   .tm-img-container-1,
   .tm-img-container-2,
   .tm-img-container-3 {
-    aspect-ratio: 4 / 3;
+
     background-size: cover;
     background-position: center;
   }
